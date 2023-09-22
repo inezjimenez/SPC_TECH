@@ -1,6 +1,7 @@
 # Juntas Brillamos: Participant Survey
 
 This QR code was created to collect personal feedback from all participants at Juntas Brillamos. With the data collected from these young Latinas, we will be able to help address more concerns and make our program the best.
+![QR Picture](https://github.com/inezjimenez/BOTB/assets/102685046/185d60aa-25e9-46b7-99ad-b03c7f58b70d)
 
 ## User Story
 
