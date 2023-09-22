@@ -1,6 +1,6 @@
 # Juntas Brillamos: Participant Survey
 
-This QR code was created to collect personal feedback from all participants at Juntas Brillamos. With the data collected from these young Latinas, we will be able to help address more concerns and make our program the best.
+This QR code has been generated for the purpose of gathering individual feedback from all participants involved with Juntas Brillamos. Each activity will receive a rating, and we kindly request personal feedback. By accumulating data from these young Latina participants, we aim to better address their concerns and tailor our program to their needs.
 
 ![QR CODE](https://github.com/inezjimenez/BOTB/assets/102685046/d38d127d-6e0e-4718-8f28-277b8f9c114e)
 
@@ -25,9 +25,10 @@ SO THAT WE can create a better, stronger experience with Juntas Brillamos
 * If you do not have a QR reader, we may use this URL https://qrfy.com/p/n0dyCh6FYP
 
 ## Functionality
-To send your feedback, scan the QR code with your phone and wait for the site to load. Two cards labeled Activites and Comments will appear. If you click on Activities, then you may select which activities you enjoyed the most. If you click on Comments, then you will click on the + sign, rate your experience, and write a comment. When you are done writing, click Send Feedback. Enter your email and phone number at the end and click send. After all of that, you are done filling out our survey.
+To provide feedback, participants can scan the QR code using their mobile phones and patiently await the website to load. Upon loading, two distinct cards will appear, one labeled 'Activities' and the other 'Comments.' If they choose 'Activities,' participants can select the activity they wish to rate and provide comments. They have the option to repeat this process for additional activities. Finally, they can enter their email and phone number and click 'Send' to submit their feedback.
+
+Alternatively, if they opt for 'Comments,' they will click on the '+' sign to rate their experience and leave a comment. Upon completion, they can proceed to click 'Send Feedback' and, similar to the 'Activities' option, enter their email and phone number before clicking 'Send.' Once these steps are completed, participants will have successfully filled out our survey.
 
 ## Project Demo
-
-https://github.com/inezjimenez/BOTB/assets/102685046/67aabdf7-f7d2-49d3-825e-de000e36dd62
+https://github.com/inezjimenez/SPC_TECH/assets/102685046/36733a87-7290-4547-8ddf-e9d92ce0daa5
 
