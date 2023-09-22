@@ -20,7 +20,7 @@ SO THAT WE can create a better, stronger experience with Juntas Brillamos
 
 ## Criteria 
 * Need a phone with a QR reader
-* If you do not have a QR reader, we may use this URL [https://qrfy.com/p/n0dyCh6FYP]
+* If you do not have a QR reader, we may use this URL https://qrfy.com/p/n0dyCh6FYP
 
 ## Functionality
 To send your feedback, scan the QR code with your phone and wait for the site to load. Two cards labeled Activites and Comments will appear. If you click on Activities, then you may select which activities you enjoyed the most. If you click on Comments, then you will click on the + sign, rate your experience, and write a comment. When you are done writing, click Send Feedback. Enter your email and phone number at the end and click send. After all of that, you are done filling out our survey.
