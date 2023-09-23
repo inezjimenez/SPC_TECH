@@ -2,7 +2,7 @@
 
 This QR code has been generated for the purpose of gathering individual feedback from all participants involved with Juntas Brillamos. Each activity will receive a rating, and we kindly request personal feedback. By accumulating data from these young Latina participants, we aim to better address their concerns and tailor our program to their needs.
 
-![QR CODE](https://github.com/inezjimenez/BOTB/assets/102685046/d38d127d-6e0e-4718-8f28-277b8f9c114e)
+![QR CODE](https://github.com/inezjimenez/SPC_TECH/assets/102685046/2877dedd-afe0-4f83-9d52-2ffb39e64ea1)
 
 ## User Story
 
@@ -30,5 +30,6 @@ To provide feedback, participants can scan the QR code using their mobile phones
 Alternatively, if they opt for 'Comments,' they will click on the '+' sign to rate their experience and leave a comment. Upon completion, they can proceed to click 'Send Feedback' and, similar to the 'Activities' option, enter their email and phone number before clicking 'Send.' Once these steps are completed, participants will have successfully filled out our survey.
 
 ## Project Demo
-https://github.com/inezjimenez/SPC_TECH/assets/102685046/36733a87-7290-4547-8ddf-e9d92ce0daa5
+https://github.com/inezjimenez/SPC_TECH/assets/102685046/bf11a0f6-460d-463a-b307-59fa4eac1c36
+
 
